@@ -14,13 +14,13 @@
   "license": "ISC",
   "dependencies": {
     "@types/typescript": "^2.0.0",
-    "axios": "^0.21.1",
-    "cli-progress": "^3.9.0",
+    "axios": "^1.6.8",
+    "cli-progress": "^3.11.0",
     "csv-parse": "^4.16.0",
     "glob": "^7.1.7",
     "jszip": "^3.6.0",
     "technicalindicators": "^3.1.0",
-    "ts-jest": "^27.0.3",
+    "ts-jest": "^29.1.1",
     "tsc": "^2.0.3",
     "uuid": "^8.3.2",
     "webpack-cli": "^4.7.2"
